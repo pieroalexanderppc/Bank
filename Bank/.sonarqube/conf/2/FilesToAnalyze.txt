@@ -1,0 +1,11 @@
+﻿C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Controllers\WeatherForecastController.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Models\BankAccount.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Program.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\WeatherForecast.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.GlobalUsings.g.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\appsettings.Development.json
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\appsettings.json
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Properties\launchSettings.json

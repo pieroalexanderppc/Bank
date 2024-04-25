@@ -1,0 +1,11 @@
+Å
+Bank.WebApi.WeatherForecastobjectB
+WeatherForecast()-Bank.WebApi.WeatherForecast.WeatherForecast()0
+Date.get$Bank.WebApi.WeatherForecast.Date.get0
+Date.set$Bank.WebApi.WeatherForecast.Date.set@
+TemperatureC.get,Bank.WebApi.WeatherForecast.TemperatureC.get@
+TemperatureC.set,Bank.WebApi.WeatherForecast.TemperatureC.set@
+TemperatureF.get,Bank.WebApi.WeatherForecast.TemperatureF.get@
+TemperatureF.set,Bank.WebApi.WeatherForecast.TemperatureF.set6
+Summary.get'Bank.WebApi.WeatherForecast.Summary.get6
+Summary.set'Bank.WebApi.WeatherForecast.Summary.set

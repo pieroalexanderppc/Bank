@@ -1,0 +1,47 @@
+
+,Bank.WebApi.Models.BankAccount.Debit(double)Œ
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Models\BankAccount.cs ("0*
+0 (*
+1*
+1 ("*
+2
+3*Ý
+2 (?ZX
+ (?(
+%0"System.ArgumentOutOfRangeException""System.ArgumentOutOfRangeExceptionÐ
+Í
+ (?(
+%1"System.ArgumentOutOfRangeException"GSystem.ArgumentOutOfRangeException.ArgumentOutOfRangeException(string?)*6
+ (?*
+(
+%0"System.ArgumentOutOfRangeException*
+6 (>
+
+amount"
+ (	
+implicit return*
+3 (*
+4
+5*Ý
+4 (?ZX
+ (?(
+%2"System.ArgumentOutOfRangeException""System.ArgumentOutOfRangeExceptionÐ
+Í
+ (?(
+%3"System.ArgumentOutOfRangeException"GSystem.ArgumentOutOfRangeException.ArgumentOutOfRangeException(string?)*6
+ (?*
+(
+%2"System.ArgumentOutOfRangeException*
+6 (>
+
+amount"
+ (	
+implicit return*
+5 ( *
+6*.
+6	 (	"
+ (	
+implicit return:
+ ('
+amountdoubleB" 
+Bank.WebApi.Models.BankAccountX

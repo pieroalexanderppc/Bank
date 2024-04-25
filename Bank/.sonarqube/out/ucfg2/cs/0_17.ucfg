@@ -1,0 +1,25 @@
+
+¤Bank.WebApi.Controllers.WeatherForecastController.WeatherForecastController(Microsoft.Extensions.Logging.ILogger<Bank.WebApi.Controllers.WeatherForecastController>)Ÿ
+”C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Controllers\WeatherForecastController.cs ($"0*
+0 (*
+1*ñ
+1 (Œ
+‰
+ (
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseÍ
+Ê
+ (u3
+1Bank.WebApi.Controllers.WeatherForecastController">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*A?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*.
+2 ("
+ (
+implicit return:I
+% (N=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B53
+1Bank.WebApi.Controllers.WeatherForecastControllerX

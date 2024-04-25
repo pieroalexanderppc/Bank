@@ -1,0 +1,83 @@
+
+:Bank.WebApi.Models.BankAccount.BankAccount(string, double)Œ
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Models\BankAccount.cs ("0*
+0 (*
+1*m
+1 (	Y
+W
+ (	
+
+%0void"object.Object()*.
+ (	" 
+Bank.WebApi.Models.BankAccount*
+2*Å
+2
+ 
+()i
+g
+
+ 
+(
+	%capture0string"__id*@>*< 
+Bank.WebApi.Models.BankAccount"
+m_customerNamestringC
+A
+
+ 
+()
+	%capture1string"__id*
+
+customerNamestring*
+4
+3*¿
+3
+3 
+(bNL
+
+3 
+(b"
+%1System.ArgumentNullException"System.ArgumentNullException¾
+»
+
+3 
+(b"
+%2System.ArgumentNullException";System.ArgumentNullException.ArgumentNullException(string?)*0
+
+3 
+(b$
+"
+%1System.ArgumentNullException*
+
+M 
+(a
+customerName"
+ (	
+implicit return*}
+4
+ 
+(ci
+g
+
+ 
+(b< 
+Bank.WebApi.Models.BankAccount"
+m_customerNamestring"__id*
+
+	%capture1string*
+5*v
+5 ( b
+`
+ (7 
+Bank.WebApi.Models.BankAccount"
+	m_balancedouble"__id*
+
+balancedouble*
+6*.
+6	 (	"
+ (	
+implicit return:"
+ (.
+customerNamestring:
+0 (>
+balancedoubleB" 
+Bank.WebApi.Models.BankAccountX

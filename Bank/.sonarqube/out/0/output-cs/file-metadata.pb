@@ -1,0 +1,9 @@
+∑
+´C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.csutf-8§
+òC:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.AssemblyInfo.csutf-8∑
+´C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8¶
+öC:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\obj\Debug\net7.0\Bank.WebApi.GlobalUsings.g.csutf-8á
+~C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\WeatherForecast.csutf-8
+vC:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Program.csutf-8ã
+ÅC:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Models\BankAccount.csutf-8û
+îC:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\lab-2024-i-cps-u1-05-pieroalexanderppc\Bank\Bank.WebApi\Controllers\WeatherForecastController.csutf-8

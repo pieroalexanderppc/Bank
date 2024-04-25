@@ -1,0 +1,9 @@
+ƒ
+Bank.WebApi.Models.BankAccountobjectY
+BankAccount(string, double):Bank.WebApi.Models.BankAccount.BankAccount(string, double)=
+Debit(double),Bank.WebApi.Models.BankAccount.Debit(double)?
+Credit(double)-Bank.WebApi.Models.BankAccount.Credit(double)C
+CustomerName.get/Bank.WebApi.Models.BankAccount.CustomerName.getC
+CustomerName.set/Bank.WebApi.Models.BankAccount.CustomerName.set9
+Balance.get*Bank.WebApi.Models.BankAccount.Balance.get9
+Balance.set*Bank.WebApi.Models.BankAccount.Balance.set
